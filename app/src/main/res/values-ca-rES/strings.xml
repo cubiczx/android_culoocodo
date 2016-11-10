@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Culo o colze?</string>
+    <string name="main_title">Culo o colze?</string>
+    <string name="ass">Cul</string>
+    <string name="elbow">Colze</string>
+    <string name="success">Correcte!</string>
+    <string name="fail">Has fallado!</string>
+    <string name="next">Següent</string>
+    <string name="repeat">Repetir</string>
+
+    <string name="title_activity_results">Resultat</string>
+    <string name="results_title">Resultat:</string>
+</resources>

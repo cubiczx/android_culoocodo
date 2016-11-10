@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Culo o Codo?</string>
+    <string name="main_title">Culo o Codo?</string>
+    <string name="ass">Culo</string>
+    <string name="elbow">Codo</string>
+    <string name="success">Correcto!</string>
+    <string name="fail">Has Fallado!</string>
+    <string name="next">Siguiente</string>
+    <string name="repeat">Repetir</string>
+
+    <string name="title_activity_results">Resultado</string>
+    <string name="results_title">Resultado:</string>
+</resources>
